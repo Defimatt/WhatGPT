@@ -102,3 +102,9 @@ dist
 
 # TernJS port file
 .tern-port
+
+# audio
+audio/
+
+# Python stuff
+venv/
